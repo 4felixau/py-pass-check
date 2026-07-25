@@ -1,2 +1,4 @@
-# py-pass-check
+# Py Pass Check
+
 A command-line script evaluating password strength guidelines.
+
