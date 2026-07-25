@@ -8,3 +8,6 @@ def check_strength(password):
     
     score = sum([has_upper, has_lower, has_digit, length_ok])
     
+    if score == 4:
+        return "Strong"
+    elif score >= 2:
